@@ -23,5 +23,5 @@ Feel free to explore each directory to find the specific materials you need for 
 
 To get started with this repository, clone this repository to your local machine using a desktop app (such as github desktop) or with git using the following command:
    ```bash
-   git clone https://github.com/your-username/LTAT.05.004-Web-Development-Course.git
+   git clone https://github.com/UnfamousThomas/WAD23.git
 
