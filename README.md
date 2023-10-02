@@ -1,7 +1,7 @@
 # LTAT.05.004 University Web Development Course
 
 Welcome to the LTAT.05.004 University Web Development Course (as part of Tartu University)! 
-This repository serves as a collaboration portal for the LTAT.05.004 course, focused on web development. 
+This repository serves as our groups repository for homeworkws.
 
 ## Table of Contents
 
