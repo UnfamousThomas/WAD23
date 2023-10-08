@@ -103,7 +103,18 @@ a {
     font-weight:600;
     margin:0
 }
+.link:hover {
+    background-color: beige;
+}
+.post-body-text {
+    padding-right: 20px;
+}
 
+
+#post-body {
+    width: 100%;
+    padding-bottom: 60px;
+}
 
 .profiilikas_navi {
     width:50%;

@@ -71,7 +71,7 @@ a {
     border-radius:50px
 }
 
-.postitused {
+.kast {
     width:100%;
     height:auto;
     display:flex;
@@ -108,6 +108,8 @@ a {
 .rida08 {
     flex:0 0 auto;
     width:80%;
+    max-width: 600px;
+    max-height: 400px;
     height:auto;
     display:flex;
     position:relative;
@@ -150,6 +152,6 @@ a {
 
 @media (max-width: 950px) {
     .rida06 {
-        width: 80%;
+        width: 100%;
     }
 }
