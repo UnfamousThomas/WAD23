@@ -3,40 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
+    <title>Postit Page</title>
     <link rel="stylesheet" href="styles/login.css">
 </head>
 <body>
+<div>
     <div class="peakast">
         <div class="header">
             <div class="navi_lingid">
-                <a href="index.html" class="link">Home</a>
+                <a href="index.html" class="link"> Home </a>
             </div>
-            <div class="navi_profiil">
-                <img src="img/1.jpeg" class="pilt" />
+            <div class="profiilikas_navi">
+                <a href="login.html"><img src="img/1.jpeg" class="navi_profiilikas"/></a>
             </div>
         </div>
-        <div class="kast">
-            <div class="rida06">
-                <div class="rida07">
-                    <div class="rida08">
-                        <a>Welcome to PostIt</a><br>
-                        <a href="#" id="kasutaja">Create an account</a><br>
-                        <a>or</a><br>
-                        <a>Please log in</a><br>
-                        <div class="form">
-                            <form>
-                                <input type="email" id="email" name="email" placeholder="Email" required><br>
-                                <input type="password" id="password" name="password" placeholder="Password" required><br>
-                                <button type="submit" formaction="index.html">Log in</button>
-                            </form>
-                        </div>
-                        <a href="#" id="parool">Forgot password</a>
-                    </div>
-                    <div class="alumine"></div>
+        <div class="empty"></div>
+        <div class="post-form">
+            <h2>Welcome to PostIt</h2>
+            <a href="#" id="kasutaja">Create an account</a><br>
+            <a>or</a><br>
+            <a>Please log in</a><br>
+            <form action="#" method="post">
+                <div class="form-group">
+                    <input type="email" id="email" name="email" placeholder="Email" required><br>
                 </div>
-            </div>
+                <div class="form-group">
+                    <input type="password" id="password" name="password" placeholder="Password" required><br>
+                </div>
+                <div class="centered">
+                    <button type="submit" formaction="index.html" class="button-primary">Log in</button>
+                </div>
+            </form>
+            <br><a href="#" id="parool">Forgot password</a>
         </div>
     </div>
+</div>
 </body>
 </html>
