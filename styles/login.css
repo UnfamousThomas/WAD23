@@ -148,3 +148,8 @@ a {
     font-size: 24px;
 }
 
+@media (max-width: 950px) {
+    .rida06 {
+        width: 80%;
+    }
+}
