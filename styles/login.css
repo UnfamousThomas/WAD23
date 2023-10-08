@@ -116,6 +116,7 @@ a {
 }
 
 .rida07 {
+    width: 80%;
     display:flex;
     align-items:center;
     margin-bottom:20px;
