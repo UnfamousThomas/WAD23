@@ -144,3 +144,7 @@ a {
 #login {
     background-color: aqua;
 }
+
+.link:hover {
+    background-color: lightgray;
+}
