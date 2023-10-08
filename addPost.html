@@ -9,18 +9,19 @@
 <body>
 
 <div class="post-form">
-    <h2>Create a Post</h2>
+    <h2>PostIt Page</h2>
     <form action="#" method="post">
         <div class="form-group">
-            <label for="post-body">Body:</label>
-            <input type="text" id="post-body" name="post-body">
+            <label for="post-body">Post Body</label>
+            <input type="text" id="post-body" name="post-body" required placeholder="textarea">
         </div>
         <div class="form-group">
-            <label for="image-upload">Select an Image:</label>
-            <input type="file" id="image-upload" name="image-upload" accept="image/*">
+            <label for="image-upload" class="select-button">Select<br> file</label>
+            <input type="file" id="image-upload" name="image-upload" accept="image/*" required>
         </div>
-        <div>
-            <button type="submit">Create Post</button>
+        <div class="empty"></div>
+        <div class="centered">
+            <button type="submit" formaction="index.html" class="button-primary">Create post</button>
         </div>
     </form>
 </div>
