@@ -75,18 +75,17 @@ html {
   width:100%;
   height:auto;
   display:flex;
-  position:relative;
   align-items:flex-start;
   justify-content:flex-start
   }
   
   .vasak_kast {
-  width:20%;
-  height:100px;
-  position:absolute;
-  border-radius:25px;
-  background-color:#a9a9a9;
-  margin:5px
+    width: 20%;
+    height: 100%;
+    position: absolute;
+    border-radius: 25px;
+    background-color: #a9a9a9;
+    margin: 5px;
   }
   
   .postitused {
@@ -94,8 +93,7 @@ html {
   right:0;
   width:60%;
   margin:auto;
-  position:absolute;
-  padding:40px 10px
+  padding:40px 10px;
   }
   
   .postituse_pea {
@@ -147,17 +145,26 @@ html {
   }
 
   .parem_kast {
-  right:0;
-  width:20%;
-  height:100px;
-  margin:5px;
-  position:absolute;
-  border-radius:25px;
-  background-color:#a9a9a9
+    top: 152px;
+    right: 0;
+    width: 20%;
+    height: 100%;
+    margin: 5px;
+    position: absolute;
+    border-radius: 25px;
+    background-color: #a9a9a9;
   }
 
   .postituse_pilt {
     display:block;
     margin-left:auto;
     margin-right:auto;
+  }
+
+  .footer {
+    width: 100%;
+    height: 100px;
+    background-color: #a9a9a9;
+    border-radius: 25px;
+
   }
