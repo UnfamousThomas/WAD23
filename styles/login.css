@@ -42,16 +42,6 @@
     flex: 2;
 }
 
-
-.button-primary {
-    background-color: #1f467d;
-    color: #fff;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-
-}
-
 .empty {
     padding-top: 70px;
 }
@@ -132,6 +122,15 @@ link:hover {
     background-color: lightgray;
 }
 
-.post-form a {
+.post-form h2 ~ a {
     font-size: 20px;
 }
+
+.centered button {
+    background-color: #1f467d;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
