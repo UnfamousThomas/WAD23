@@ -24,6 +24,12 @@
     margin-bottom: 10px;
 }
 
+#image-upload[type=file]::file-selector-button {
+    padding: .2em .4em;
+    background-color: grey;
+    color: white;
+}
+
 .label {
     flex: 1; /* Distribute remaining space to the label */
     margin-right: 10px;
@@ -34,27 +40,29 @@
     flex: 2; /* Distribute more space to the input */
 }
 
+/* Larger Choose File button */
+
+
+/* Dark gray button with white text */
 .button-primary {
-    background-color: #007bff;
-    color: #fff;
+    background-color: #1f467d; /* Dark gray background */
+    color: #fff; /* White text */
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
+
 }
 
-/* Pseudo-element */
-.nav::before {
-    content: "";
-    display: block;
-    height: 2px;
-    background-color: #007bff;
+.empty {
+    padding-top: 70px;
+}
+.centered {
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    align-items: center; /* Center children horizontally */
 }
 
-/* Descendant Selector */
-nav ul li a {
-    text-decoration: none;
-    color: #333;
-}
+
 
 /* Child Selector */
 .post-form > h2 {
