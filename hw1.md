@@ -7,4 +7,3 @@ when you hover over them [0.5 point],
 - Use a Child Selector (e.g., div > p)
 - Use an Adjacent Sibling Selector (e.g., div + p)
 - Use a General Sibling Selector (e.g., div ~ p)
-Note: use the toggle device toolbar to see how the pages look on a screen and on a cellphone
