@@ -2,12 +2,27 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Add a post</title>
-    <link rel="stylesheet" href="styles/navbar.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Postit Page</title>
+    <link rel="stylesheet" href="styles/postit.css">
 </head>
 <body>
-    <div class="topnav">
-        <a href="index.html">Home</a>
-    </div>
+
+<div class="post-form">
+    <h2>Create a Post</h2>
+    <form action="#" method="post">
+        <div class="form-group">
+            <label for="post-body">Body:</label>
+            <input type="text" id="post-body" name="post-body">
+        </div>
+        <div class="form-group">
+            <label for="image-upload">Select an Image:</label>
+            <input type="file" id="image-upload" name="image-upload" accept="image/*">
+        </div>
+        <div>
+            <button type="submit">Create Post</button>
+        </div>
+    </form>
+</div>
 </body>
 </html>

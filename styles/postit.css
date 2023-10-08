@@ -1,0 +1,62 @@
+/* ID Selector */
+#post-body {
+    width: 100%;
+    padding: 10px;
+}
+
+/* Class Selectors */
+.post-form {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    max-width: 400px; /* Limit the width for mobile */
+    margin: 0 auto; /* Center the form horizontally */
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    align-items: center; /* Center children horizontally */
+}
+
+.form-group {
+    display: flex;
+    flex-direction: row; /* Display label and input side by side */
+    align-items: center; /* Center vertically */
+    margin-bottom: 10px;
+}
+
+.label {
+    flex: 1; /* Distribute remaining space to the label */
+    margin-right: 10px;
+    text-align: right; /* Right-align the label */
+}
+
+.input {
+    flex: 2; /* Distribute more space to the input */
+}
+
+.button-primary {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+/* Pseudo-element */
+.nav::before {
+    content: "";
+    display: block;
+    height: 2px;
+    background-color: #007bff;
+}
+
+/* Descendant Selector */
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+/* Child Selector */
+.post-form > h2 {
+    margin-bottom: 10px;
+}
