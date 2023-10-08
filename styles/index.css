@@ -257,3 +257,11 @@ html {
   justify-content:flex-end;
   background-color:#a9a9a9
   }
+
+  .link:hover {
+    background-color: lightgray;
+  }
+
+  .link2:hover {
+    background-color: lightgray;
+  }
