@@ -127,3 +127,7 @@ a {
     object-fit:cover;
     border-radius:50px
 }
+
+link:hover {
+    background-color: lightgray;
+}
