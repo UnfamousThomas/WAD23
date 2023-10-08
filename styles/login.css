@@ -119,7 +119,7 @@ a {
     border-radius:25px 25px 0 0
 }
 
-.rida09 {
+.alumine {
     flex:0 0 auto;
     width:80%;
     height:auto;
@@ -136,10 +136,6 @@ a {
     color: blue;
 }
 
-#login {
-    background-color: aqua;
-}
-
 .link:hover {
     background-color: lightgray;
 }
@@ -151,3 +147,4 @@ a {
 .rida08 a {
     font-size: 24px;
 }
+
