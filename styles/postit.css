@@ -1,5 +1,5 @@
 #post-body {
-    width: 100%;
+    width: 80%;
     padding: 10px;
 }
 
@@ -8,7 +8,7 @@
     padding: 20px;
     border: 1px solid #ddd;
     border-radius: 5px;
-    max-width: 400px;
+    max-width: 300px;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -26,6 +26,11 @@
     padding: .2em .4em;
     background-color: grey;
     color: white;
+    border-width: 1px;
+}
+
+.select-button {
+    padding-right: 20px;
 }
 
 .label {
@@ -37,9 +42,6 @@
 .input {
     flex: 2;
 }
-
-
-
 
 
 .button-primary {
@@ -59,9 +61,6 @@
     flex-direction: column;
     align-items: center;
 }
-
-
-
 
 .post-form > h2 {
     margin-bottom: 10px;
