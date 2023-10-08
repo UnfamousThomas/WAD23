@@ -104,7 +104,7 @@ a {
     margin:0
 }
 .link:hover {
-    background-color: beige;
+    background-color: lightgray;
 }
 .post-body-text {
     padding-right: 20px;
