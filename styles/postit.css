@@ -1,7 +1,9 @@
+
 * {
     box-sizing:border-box;
     border-width:0;
-    border-style:solid
+    border-style:solid;
+    overflow: hidden;
 }
 
 .post-form {
@@ -15,7 +17,6 @@
     flex-direction: column;
     align-items: center;
 }
-
 .form-group {
     display: flex;
     flex-direction: row;
@@ -30,6 +31,7 @@
     border-width: 1px;
     width: 120px;
     height: 30px;
+
 }
 
 #image-upload[type=file] {
@@ -77,11 +79,6 @@ a {
     text-decoration:none;
 }
 
-
-.peakast {
-    overflow:auto;
-    min-height:100vh;
-}
 
 .header {
     flex:0 0 auto;
