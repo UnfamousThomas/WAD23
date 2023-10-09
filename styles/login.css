@@ -27,21 +27,6 @@
     color: blue;
 }
 
-
-.select-button {
-    padding-right: 20px;
-}
-
-.label {
-    flex: 1;
-    margin-right: 10px;
-    text-align: right;
-}
-
-.input {
-    flex: 2;
-}
-
 .empty {
     padding-top: 70px;
 }
@@ -92,16 +77,7 @@ a {
     margin:0
 }
 .link:hover {
-    background-color: beige;
-}
-.post-body-text {
-    padding-right: 20px;
-}
-
-
-#post-body {
-    width: 100%;
-    padding-bottom: 60px;
+    background-color: lightgray;
 }
 
 .profiilikas_navi {
@@ -116,10 +92,6 @@ a {
     height:100px;
     object-fit:cover;
     border-radius:50px
-}
-
-link:hover {
-    background-color: lightgray;
 }
 
 .post-form h2 ~ a {
