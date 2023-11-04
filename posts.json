@@ -5,8 +5,10 @@
             "author_image": "https://media.istockphoto.com/id/1327592449/vector/default-avatar-photo-placeholder-icon-grey-profile-picture-business-man.jpg?s=612x612&w=0&k=20&c=yqoos7g9jmufJhfkbQsk-mdhKEsih6Di4WZ66t_ib7I=",
             "content": "Mulle meeldivad küpsised",
             "image": null,
-            "timestamp_posted": "2023-11-04T15:30:00",
-            "likes": 42
+            "metadata": {
+                "likes": 12,
+                "timestamp_posted": "Nov 2, 2023"
+            }
         },
         {
             "author_name": "Thomas Palts",
@@ -14,15 +16,20 @@
             "content": "Ma nõustun Madise postitusega",
             "image": "https://www.tartu.ee/sites/default/files/field/image/meeskond.jpg",
             "timestamp_posted": "2023-11-04T16:15:00",
-            "likes": 12
+            "metadata": {
+                "likes": 12,
+                "timestamp_posted": "Nov 3, 2023"
+            }
         },
         {
             "author_name": "Karl Pärloja",
             "author_image": "https://media.istockphoto.com/id/1327592449/vector/default-avatar-photo-placeholder-icon-grey-profile-picture-business-man.jpg?s=612x612&w=0&k=20&c=yqoos7g9jmufJhfkbQsk-mdhKEsih6Di4WZ66t_ib7I=",
             "image": null,
             "content": "Küpsised on halvad, mulle meeldib red bull",
-            "timestamp_posted": "2023-11-04T17:05:00",
-            "likes": 28
+            "metadata": {
+                "likes": 12,
+                "timestamp_posted": "Nov 4, 2023"
+            }
         }
     ]
 }
