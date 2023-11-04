@@ -3,7 +3,7 @@
         {
             "author_name": "Madis Laurson",
             "author_image": "https://media.istockphoto.com/id/1327592449/vector/default-avatar-photo-placeholder-icon-grey-profile-picture-business-man.jpg?s=612x612&w=0&k=20&c=yqoos7g9jmufJhfkbQsk-mdhKEsih6Di4WZ66t_ib7I=",
-            "content": "Mulle meeldivad küpsised",
+            "content": "Mulle meeldib rekursioon",
             "image": null,
             "metadata": {
                 "likes": 12,
@@ -13,7 +13,7 @@
         {
             "author_name": "Thomas Palts",
             "author_image": "https://media.istockphoto.com/id/1327592449/vector/default-avatar-photo-placeholder-icon-grey-profile-picture-business-man.jpg?s=612x612&w=0&k=20&c=yqoos7g9jmufJhfkbQsk-mdhKEsih6Di4WZ66t_ib7I=",
-            "content": "Ma nõustun Madise postitusega",
+            "content": "Mulle meeldib ka rekrusioon",
             "image": "https://www.tartu.ee/sites/default/files/field/image/meeskond.jpg",
             "timestamp_posted": "2023-11-04T16:15:00",
             "metadata": {
@@ -25,10 +25,70 @@
             "author_name": "Karl Pärloja",
             "author_image": "https://media.istockphoto.com/id/1327592449/vector/default-avatar-photo-placeholder-icon-grey-profile-picture-business-man.jpg?s=612x612&w=0&k=20&c=yqoos7g9jmufJhfkbQsk-mdhKEsih6Di4WZ66t_ib7I=",
             "image": null,
-            "content": "Küpsised on halvad, mulle meeldib red bull",
+            "content": "Küpsised on halvad, mulle meeldib hoopis red bull",
             "metadata": {
                 "likes": 12,
                 "timestamp_posted": "Nov 4, 2023"
+            }
+        },
+        {
+            "author_name": "Alice Johnson",
+            "author_image": "https://media.istockphoto.com/id/1327592449/vector/default-avatar-photo-placeholder-icon-grey-profile-picture-business-man.jpg?s=612x612&w=0&k=20&c=yqoos7g9jmufJhfkbQsk-mdhKEsih6Di4WZ66t_ib7I=",
+            "content": "Just had the best pizza in town!",
+            "image": "https://lp-cms-production.imgix.net/2020-10/GettyRF_842363386.jpg?auto=format&w=1440&h=810&fit=crop&q=75",
+            "metadata": {
+                "likes": 28,
+                "timestamp_posted": "Nov 5, 2023"
+            }
+        },
+        {
+            "author_name": "John Smith",
+            "author_image": "https://media.istockphoto.com/id/1327592449/vector/default-avatar-photo-placeholder-icon-grey-profile-picture-business-man.jpg?s=612x612&w=0&k=20&c=yqoos7g9jmufJhfkbQsk-mdhKEsih6Di4WZ66t_ib7I=",
+            "content": "Hiking in the mountains today!",
+            "image": "https://www.tripsavvy.com/thmb/84XccJQk2WZAVS6uWR2rlnnIcQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/man-on-early-morning-hike-up-mountainside-1056063244-06433cd9244c4ca38ec43d2782062ba1.jpg",
+            "metadata": {
+                "likes": 35,
+                "timestamp_posted": "Nov 6, 2023"
+            }
+        },
+        {
+            "author_name": "Emily Davis",
+            "author_image": "https://media.istockphoto.com/id/1327592449/vector/default-avatar-photo-placeholder-icon-grey-profile-picture-business-man.jpg?s=612x612&w=0&k=20&c=yqoos7g9jmufJhfkbQsk-mdhKEsih6Di4WZ66t_ib7I=",
+            "content": "Enjoying a sunny day at the beach.",
+            "image": "https://resources.stuff.co.nz/content/dam/images/1/s/1/a/o/8/image.related.StuffLandscapeSixteenByNine.710x400.1s1ahm.png/1538505925015.jpg",
+            "metadata": {
+                "likes": 42,
+                "timestamp_posted": "Nov 7, 2023"
+            }
+        },
+        {
+            "author_name": "David Wilson",
+            "author_image": "https://media.istockphoto.com/id/1327592449/vector/default-avatar-photo-placeholder-icon-grey-profile-picture-business-man.jpg?s=612x612&w=0&k=20&c=yqoos7g9jmufJhfkbQsk-mdhKEsih6Di4WZ66t_ib7I=",
+            "content": "New book recommendation: 'The Great Gatsby'",
+            "image": null,
+            "metadata": {
+                "likes": 15,
+                "timestamp_posted": "Nov 8, 2023"
+            }
+        },
+        {
+            "author_name": "Sophie Turner",
+            "author_image": "https://media.istockphoto.com/id/1327592449/vector/default-avatar-photo-placeholder-icon-grey-profile-picture-business-man.jpg?s=612x612&w=0&k=20&c=yqoos7g9jmufJhfkbQsk-mdhKEsih6Di4WZ66t_ib7I=",
+            "content": "Cooking a delicious pasta dish for dinner!",
+            "image": "https://www.twopeasandtheirpod.com/wp-content/uploads/2023/05/Lemon-Ricotta-Pasta-9-500x375.jpg",
+            "metadata": {
+                "likes": 18,
+                "timestamp_posted": "Nov 9, 2023"
+            }
+        },
+        {
+            "author_name": "Michael Brown",
+            "author_image": "https://media.istockphoto.com/id/1327592449/vector/default-avatar-photo-placeholder-icon-grey-profile-picture-business-man.jpg?s=612x612&w=0&k=20&c=yqoos7g9jmufJhfkbQsk-mdhKEsih6Di4WZ66t_ib7I=",
+            "content": "Just adopted a cute puppy named Max!",
+            "image": "https://media.4-paws.org/1/e/d/6/1ed6da75afe37d82757142dc7c6633a532f53a7d/VIER%20PFOTEN_2019-03-15_001-2886x1999-1920x1330.jpg",
+            "metadata": {
+                "likes": 50,
+                "timestamp_posted": "Nov 10, 2023"
             }
         }
     ]

@@ -1,4 +1,4 @@
-//fetch('https://api.jsonstorage.net/v1/json/6de0d0db-686a-4de7-ba57-23576847aacc/296a8f11-2aae-4b1a-b83c-d821e0e3f66b')
+//fetch('https://api.jsonstorage.net/v1/json/6de0d0db-686a-4de7-ba57-23576847aacc/8f743581-a823-4f57-b760-b741b4b6bdd2')
 fetch('posts.json')
     .then(response => response.json())
     .then(data => {
