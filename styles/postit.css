@@ -124,7 +124,7 @@ a {
     justify-content:flex-end
 }
 
-.navi_profiilikas {
+.navigeerimisePilt {
     width:100px;
     height:100px;
     object-fit:cover;

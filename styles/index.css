@@ -64,7 +64,7 @@ html {
   justify-content:flex-end
   }
   
-  #navigeerimisePilt {
+  .navigeerimisePilt {
   width:100px;
   height:100px;
   object-fit:cover;
@@ -170,7 +170,7 @@ html {
   }
 
   @media screen and (max-width: 600px) {
-    #navigeerimisePilt{
+    .navigeerimisePilt{
       transform: scale(0.8);
     }
 
