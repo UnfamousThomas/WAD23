@@ -28,6 +28,9 @@ fetch('posts.json')
             const postituseSisuDiv = document.createElement('div');
             postituseSisuDiv.className = 'postituse_sisu';
 
+            //Ma ei ole kindel kas siin taheti seda või teist varianti kus converitakse base64. Minu variant on
+            //klassikalisem kus pilt laetakase mingisse andmebaasi (object storage)
+            //ja link sellele laetakse andmebaasi
             if(post.image != null) {
                 const postituseImg = document.createElement('img');
                 postituseImg.className = "postituse_pilt";
