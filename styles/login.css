@@ -108,5 +108,8 @@ a {
 
 .profiilikaDropdown-active {
     display: block;
+    background-color: rgb(128, 128, 128);
+    padding: 10px;
+    border-radius: 20px;
 }
 
