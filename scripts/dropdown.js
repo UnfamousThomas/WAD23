@@ -22,6 +22,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
     document.getElementById("logout").addEventListener("click", function() {
         // Lisame hiljem
-        alert("Logout clicked!");
+        alert("Logout!");
     });
 });
